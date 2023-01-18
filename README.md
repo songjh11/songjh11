@@ -1,19 +1,9 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&fontSize=30&text=안녕하세요%20백엔드%20개발자%20송지혜입니다%20😆" />
 </div>
-<div align="center">
-👨‍💻 All of my projects are available at
-  <br><p></p>
-<a href="[https://www.notion.so/ffd4f0b5bb97410f89ff5a6e0f52c4b7](https://www.notion.so/ffd4f0b5bb97410f89ff5a6e0f52c4b7)"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/></a>
-  <br><p></p>
-  
-📫 How to reach me 
-  <br>
-  [jhmelody91@gmail.com](jhmelody91@gmail.com)
-</div>
-  <br>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
+	<br>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
 <div align="center">
